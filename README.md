@@ -26,6 +26,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [enhancd](https://github.com/b4b4r07/enhancd) - A next-generation cd command with your interactive filter
 - [z](https://github.com/jethrokuan/z) - Pure-fish [rupa/z](https://github.com/rupa/z)-like directory jumping.
 - [fzf](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf).
+- [forgit](https://github.com/wfxr/forgit) - A utility tool powered by fzf for using git interactively.
 - [bax](https://github.com/jorgebucaran/fish-bax) - Run bash scripts, replaying environment changes in fish (see also [bass](https://github.com/edc/bass)).
 - [done](https://github.com/franciscolourenco/done) - Automatically receive notifications when a long process finishes.
 - [mock](https://github.com/matchai/fish-mock) - Quick and powerful function mocks.
